@@ -1,0 +1,9 @@
+[requires]
+catch2/3.0.1
+benchmark/1.6.1
+fmt/8.1.1
+
+[generators]
+cmake_find_package
+virtualenv
+
